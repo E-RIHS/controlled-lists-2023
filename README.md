@@ -10,7 +10,8 @@ The controlled lists added to this repository are being managed and created usin
 
 * Each of the controlled lists are created or edited via the folders and files listed below the [tsv](tsv) folder.
 * To create a new controlled list:
-  *
+  - step 1
+  - step 2
 
 ## Current Lists
 
