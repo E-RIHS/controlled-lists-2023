@@ -17,3 +17,11 @@
 
 ## Project Model
 * Research Category
+* project state
+* participant role
+
+## Examination Model
+* participant role
+* examination type (object/Archive/Data)
+* Technique
+* Condition Class/State/Value (Possibly several lists see model notes)
