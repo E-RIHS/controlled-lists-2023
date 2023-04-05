@@ -1,7 +1,6 @@
 # controlled-lists
 
-Need for service model:
-
+## Service Model
 * service_readiness_level
 * service_operating_languages
 * support_activity_type
@@ -15,3 +14,6 @@ Need for service model:
 * service_link_type
 * service_keywords - needs to be treated differently - example list
 * service_access_unit
+
+## Project Model
+* Research Category
