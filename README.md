@@ -1,6 +1,6 @@
 # controlled-lists
 
-Need for service moedl:
+Need for service model:
 
 * service_readiness_level
 * service_operating_languages
