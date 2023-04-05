@@ -1,4 +1,4 @@
-# Language Selector
+# Natural Languages
 
 This list is intended to allow users to select standard defined natural languages. 
 
