@@ -2,8 +2,8 @@
 
 This list is intended to allow users to select standard defined natural languages. 
 
-### Related to
-* [Service metadata schema](https://github.com/E-RIHS/schema#service-metadata-schema)
+### Referenced by
+* Field: **service_operating_languages** in the [Service metadata schema](https://github.com/E-RIHS/schema#service-metadata-schema)
 
 > **Note**
 > 
