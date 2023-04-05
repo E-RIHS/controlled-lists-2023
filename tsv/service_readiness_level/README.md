@@ -6,8 +6,8 @@ It is anticipated that services officially offered under the E-RIHS ERIC will ge
 
 In addition, the lower levels allow developing and proposed services to also be documented, this is particularly relevant to the development of new digital services. These more experimentative services, though potentially not included in the live E-RIHS catalogue of services, could still be made available at a National, Institutional or Personal level to facilitate testing and evaluation.
 
-### Related to
-* [Service metadata schema](https://github.com/E-RIHS/schema#service-metadata-schema)
+### Referenced by
+* Field: **service_readiness_level** in the [Service metadata schema](https://github.com/E-RIHS/schema#service-metadata-schema)
 
 > **Note**
 > 
