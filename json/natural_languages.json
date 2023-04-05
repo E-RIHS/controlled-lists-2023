@@ -1,0 +1,281 @@
+{
+  "id": "natural_languages",
+  "description": "# Natural Languages\n\nThis list is intended to allow users to select standard defined natural languages. \n\n### Referenced by\n* Field: **service_operating_languages** in the [Service metadata schema](https://github.com/E-RIHS/schema#service-metadata-schema)\n\n",
+  "terms": {
+    "bg": {
+      "term": "bg",
+      "label": {
+        "en": "bg - Bulgarian"
+      },
+      "description": {
+        "en": "ISO 639-1 two letter language code:  bg - Bulgarian"
+      },
+      "sameAs": "https://id.loc.gov/vocabulary/iso639-1/bg.json",
+      "source": ""
+    },
+    "cz": {
+      "term": "cz",
+      "label": {
+        "en": "cz - Czech"
+      },
+      "description": {
+        "en": "ISO 639-1 two letter language code:  cz - Czech"
+      },
+      "sameAs": "https://id.loc.gov/vocabulary/iso639-1/cz.json",
+      "source": ""
+    },
+    "da": {
+      "term": "da",
+      "label": {
+        "en": "da - Danish"
+      },
+      "description": {
+        "en": "ISO 639-1 two letter language code:  da - Danish"
+      },
+      "sameAs": "https://id.loc.gov/vocabulary/iso639-1/da.json",
+      "source": ""
+    },
+    "de": {
+      "term": "de",
+      "label": {
+        "en": "de - German"
+      },
+      "description": {
+        "en": "ISO 639-1 two letter language code:  de - German"
+      },
+      "sameAs": "https://id.loc.gov/vocabulary/iso639-1/de.json",
+      "source": ""
+    },
+    "el": {
+      "term": "el",
+      "label": {
+        "en": "el - Greek"
+      },
+      "description": {
+        "en": "ISO 639-1 two letter language code:  el - Greek"
+      },
+      "sameAs": "https://id.loc.gov/vocabulary/iso639-1/el.json",
+      "source": ""
+    },
+    "en": {
+      "term": "en",
+      "label": {
+        "en": "en - English"
+      },
+      "description": {
+        "en": "ISO 639-1 two letter language code:  en - English"
+      },
+      "sameAs": "https://id.loc.gov/vocabulary/iso639-1/en.json",
+      "source": ""
+    },
+    "es": {
+      "term": "es",
+      "label": {
+        "en": "es - Spanish"
+      },
+      "description": {
+        "en": "ISO 639-1 two letter language code:  es - Spanish"
+      },
+      "sameAs": "https://id.loc.gov/vocabulary/iso639-1/es.json",
+      "source": ""
+    },
+    "et": {
+      "term": "et",
+      "label": {
+        "en": "et - Estonian"
+      },
+      "description": {
+        "en": "ISO 639-1 two letter language code:  et - Estonian"
+      },
+      "sameAs": "https://id.loc.gov/vocabulary/iso639-1/et.json",
+      "source": ""
+    },
+    "fi": {
+      "term": "fi",
+      "label": {
+        "en": "fi - Finnish"
+      },
+      "description": {
+        "en": "ISO 639-1 two letter language code:  fi - Finnish"
+      },
+      "sameAs": "https://id.loc.gov/vocabulary/iso639-1/fi.json",
+      "source": ""
+    },
+    "fr": {
+      "term": "fr",
+      "label": {
+        "en": "fr - French"
+      },
+      "description": {
+        "en": "ISO 639-1 two letter language code:  fr - French"
+      },
+      "sameAs": "https://id.loc.gov/vocabulary/iso639-1/fr.json",
+      "source": ""
+    },
+    "ga": {
+      "term": "ga",
+      "label": {
+        "en": "ga - Irish"
+      },
+      "description": {
+        "en": "ISO 639-1 two letter language code:  ga - Irish"
+      },
+      "sameAs": "https://id.loc.gov/vocabulary/iso639-1/ga.json",
+      "source": ""
+    },
+    "hr": {
+      "term": "hr",
+      "label": {
+        "en": "hr - Croatian"
+      },
+      "description": {
+        "en": "ISO 639-1 two letter language code:  hr - Croatian"
+      },
+      "sameAs": "https://id.loc.gov/vocabulary/iso639-1/hr.json",
+      "source": ""
+    },
+    "hu": {
+      "term": "hu",
+      "label": {
+        "en": "hu - Hungarian"
+      },
+      "description": {
+        "en": "ISO 639-1 two letter language code:  hu - Hungarian"
+      },
+      "sameAs": "https://id.loc.gov/vocabulary/iso639-1/hu.json",
+      "source": ""
+    },
+    "it": {
+      "term": "it",
+      "label": {
+        "en": "it - Italian"
+      },
+      "description": {
+        "en": "ISO 639-1 two letter language code:  it - Italian"
+      },
+      "sameAs": "https://id.loc.gov/vocabulary/iso639-1/it.json",
+      "source": ""
+    },
+    "lt": {
+      "term": "lt",
+      "label": {
+        "en": "lt - Lithuanian"
+      },
+      "description": {
+        "en": "ISO 639-1 two letter language code:  lt - Lithuanian"
+      },
+      "sameAs": "https://id.loc.gov/vocabulary/iso639-1/lt.json",
+      "source": ""
+    },
+    "lv": {
+      "term": "lv",
+      "label": {
+        "en": "lv - Latvian"
+      },
+      "description": {
+        "en": "ISO 639-1 two letter language code:  lv - Latvian"
+      },
+      "sameAs": "https://id.loc.gov/vocabulary/iso639-1/lv.json",
+      "source": ""
+    },
+    "mt": {
+      "term": "mt",
+      "label": {
+        "en": "mt - Maltese"
+      },
+      "description": {
+        "en": "ISO 639-1 two letter language code:  mt - Maltese"
+      },
+      "sameAs": "https://id.loc.gov/vocabulary/iso639-1/mt.json",
+      "source": ""
+    },
+    "nl": {
+      "term": "nl",
+      "label": {
+        "en": "nl - Dutch"
+      },
+      "description": {
+        "en": "ISO 639-1 two letter language code:  nl - Dutch"
+      },
+      "sameAs": "https://id.loc.gov/vocabulary/iso639-1/nl.json",
+      "source": ""
+    },
+    "no": {
+      "term": "no",
+      "label": {
+        "en": "no - Norwegian"
+      },
+      "description": {
+        "en": "ISO 639-1 two letter language code:  no - Norwegian"
+      },
+      "sameAs": "https://id.loc.gov/vocabulary/iso639-1/no.json",
+      "source": ""
+    },
+    "pl": {
+      "term": "pl",
+      "label": {
+        "en": "pl - Polish"
+      },
+      "description": {
+        "en": "ISO 639-1 two letter language code:  pl - Polish"
+      },
+      "sameAs": "https://id.loc.gov/vocabulary/iso639-1/pl.json",
+      "source": ""
+    },
+    "pt": {
+      "term": "pt",
+      "label": {
+        "en": "pt - Portugese"
+      },
+      "description": {
+        "en": "ISO 639-1 two letter language code:  pt - Portugese"
+      },
+      "sameAs": "https://id.loc.gov/vocabulary/iso639-1/pt.json",
+      "source": ""
+    },
+    "ro": {
+      "term": "ro",
+      "label": {
+        "en": "ro - Romanian"
+      },
+      "description": {
+        "en": "ISO 639-1 two letter language code:  ro - Romanian"
+      },
+      "sameAs": "https://id.loc.gov/vocabulary/iso639-1/ro.json",
+      "source": ""
+    },
+    "sk": {
+      "term": "sk",
+      "label": {
+        "en": "sk - Slovak"
+      },
+      "description": {
+        "en": "ISO 639-1 two letter language code:  sk - Slovak"
+      },
+      "sameAs": "https://id.loc.gov/vocabulary/iso639-1/sk.json",
+      "source": ""
+    },
+    "sl": {
+      "term": "sl",
+      "label": {
+        "en": "sl - Slovenian"
+      },
+      "description": {
+        "en": "ISO 639-1 two letter language code:  sl - Slovenian"
+      },
+      "sameAs": "https://id.loc.gov/vocabulary/iso639-1/sl.json",
+      "source": ""
+    },
+    "sv": {
+      "term": "sv",
+      "label": {
+        "en": "sv - Swedish"
+      },
+      "description": {
+        "en": "ISO 639-1 two letter language code:  sv - Swedish"
+      },
+      "sameAs": "https://id.loc.gov/vocabulary/iso639-1/sv.json",
+      "source": ""
+    }
+  }
+}

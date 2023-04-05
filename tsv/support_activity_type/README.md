@@ -2,6 +2,8 @@
 
 This list is intended to include the various types of support that can be provided to a Service, such as the ones provided under [E-RIHS](https://www.e-rihs.eu/). This was developed from the initial notion of defining who might be funding a given service, but in the future a given service can be offered under multiple funding streams at the same time and different organisations and or individual can provide a range of different types of past, current or ongoing support this list was initiated.   
 
+** Please note that the French version of this list is not a real translation, it has just been included to test the automated generation of the relevant JSON file, once it has been updated or an alternative real example has been added please remove this note and any old version of the dummy French version
+
 ### Referenced by
 * Field: **support_activity** - **type** in the [Service metadata schema](https://github.com/E-RIHS/schema#service-metadata-schema)
 

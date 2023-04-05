@@ -1,13 +1,105 @@
-[
-    {
-        "term": "basic_principles_observed",
-        "label": {
-            "en": "1 - Basic principles observed",
-            "nl": "1 - Basisprincipes geobserveerd"
-        },
-        "description": {
-            "en": "..."
-        },
-        "source": "wikipedia..."
+{
+  "id": "service_readiness_level",
+  "description": "# Service Readiness Level\n\nThe service readiness levels (SRL) are a method for estimating the maturity of services being offered or proposed in relation to the E-RIHS community. SRLs enable consistent and uniform discussions of technical maturity across different types of services. These levels are directly modelled on the more standard [Technology readiness levels](https://en.wikipedia.org/wiki/Technology_readiness_level) and the common terms used to describe the development of software.\n\nIt is anticipated that services officially offered under the E-RIHS ERIC will generally be in the top few categories. However, many of the services offered to to the E-RIHS community are under active development, in order to provide the latest options to the HS researchers, therefore lower SLR levels may also be considered within the live catalogue of services.\n\nIn addition, the lower levels allow developing and proposed services to also be documented, this is particularly relevant to the development of new digital services. These more experimentative services, though potentially not included in the live E-RIHS catalogue of services, could still be made available at a National, Institutional or Personal level to facilitate testing and evaluation.\n\n### Referenced by\n* Field: **service_readiness_level** in the [Service metadata schema](https://github.com/E-RIHS/schema#service-metadata-schema)\n\n",
+  "terms": {
+    "1_basic_principles_observed": {
+      "term": "1_basic_principles_observed",
+      "label": {
+        "en": "1 - Basic principles observed"
+      },
+      "description": {
+        "en": "Fundamental scientific principles have been identified, but no practical applications have been identified yet."
+      },
+      "sameAs": "",
+      "source": "https://en.wikipedia.org/wiki/Technology_readiness_level"
+    },
+    "2_concept_formulated_planning": {
+      "term": "2_concept_formulated_planning",
+      "label": {
+        "en": "2 - Concept formulated (planning)"
+      },
+      "description": {
+        "en": "The service concept is established, and initial feasibility studies have been conducted."
+      },
+      "sameAs": "",
+      "source": "https://en.wikipedia.org/wiki/Technology_readiness_level"
+    },
+    "3_experimental_proof_of_concept": {
+      "term": "3_experimental_proof_of_concept",
+      "label": {
+        "en": "3 - Experimental proof of concept"
+      },
+      "description": {
+        "en": "The service has been demonstrated in a laboratory setting, and initial experimental testing has been completed."
+      },
+      "sameAs": "",
+      "source": "https://en.wikipedia.org/wiki/Technology_readiness_level"
+    },
+    "4_concept_validated_in_controlled_environment": {
+      "term": "4_concept_validated_in_controlled_environment",
+      "label": {
+        "en": "4 - Concept validated in controlled environment"
+      },
+      "description": {
+        "en": "The service has been validated in a controlled environment and shown to work as intended."
+      },
+      "sameAs": "",
+      "source": "https://en.wikipedia.org/wiki/Technology_readiness_level"
+    },
+    "5_service_validated_in_hs_environment_alpha": {
+      "term": "5_service_validated_in_hs_environment_alpha",
+      "label": {
+        "en": "5 - Service validated in HS environment (alpha)"
+      },
+      "description": {
+        "en": "The service has been validated in a Heritage Science environment and shown to work as intended. (For software this would count as an initial functioning version)"
+      },
+      "sameAs": "",
+      "source": "https://en.wikipedia.org/wiki/Technology_readiness_level"
+    },
+    "6_service_demonstrated_in_hs_environment": {
+      "term": "6_service_demonstrated_in_hs_environment",
+      "label": {
+        "en": "6 - Service demonstrated in HS environment"
+      },
+      "description": {
+        "en": "The service has been demonstrated in a Heritage Science environment and proven to be effective in meeting its objectives."
+      },
+      "sameAs": "",
+      "source": "https://en.wikipedia.org/wiki/Technology_readiness_level"
+    },
+    "7_operational service prototype_demonstrated_beta": {
+      "term": "7_operational service prototype_demonstrated_beta",
+      "label": {
+        "en": "7 - Operational service prototype demonstrated (beta)"
+      },
+      "description": {
+        "en": "A functional prototype of the service has been demonstrated in an operational environment. (For software this would count as a close to fully functioning test version)"
+      },
+      "sameAs": "",
+      "source": "https://en.wikipedia.org/wiki/Technology_readiness_level"
+    },
+    "8_service_complete_and_qualified_release_candidate": {
+      "term": "8_service_complete_and_qualified_release_candidate",
+      "label": {
+        "en": "8 - Service complete and qualified (release candidate)"
+      },
+      "description": {
+        "en": "The service has been completed and qualified through test and demonstration, and is ready for production. (For software this would count as a version ready for release at the very final stages of testing)"
+      },
+      "sameAs": "",
+      "source": "https://en.wikipedia.org/wiki/Technology_readiness_level"
+    },
+    "9_service_proven_in_operational_environment_production": {
+      "term": "9_service_proven_in_operational_environment_production",
+      "label": {
+        "en": "9 - Service proven in operational environment (production)"
+      },
+      "description": {
+        "en": "The service has been successfully deployed and proven to be effective in a Heritage Science environment and has been exploited for successful Accesses."
+      },
+      "sameAs": "",
+      "source": "https://en.wikipedia.org/wiki/Technology_readiness_level"
     }
-]
+  }
+}

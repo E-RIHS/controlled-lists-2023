@@ -1,26 +1,26 @@
 DB Term	Display Name	Description	Same As	Source
-bg - Bulgarian	bg - Bulgarian	Description	Same As	Source
-cz - Czech	cz - Czech	Description	Same As	Source
-da - Danish	da - Danish	Description	Same As	Source
-de - German	de - German	Description	Same As	Source
-el - Greek	el - Greek	Description	Same As	Source
-en - English	en - English	Description	Same As	Source
-es - Spanish	es - Spanish	Description	Same As	Source
-et - Estonian	et - Estonian	Description	Same As	Source
-fi - Finnish	fi - Finnish	Description	Same As	Source
-fr - French	fr - French	Description	Same As	Source
-ga - Irish	ga - Irish	Description	Same As	Source
-hr - Croatian	hr - Croatian	Description	Same As	Source
-hu - Hungarian	hu - Hungarian	Description	Same As	Source
-it - Italian	it - Italian	Description	Same As	Source
-lt - Lithuanian	lt - Lithuanian	Description	Same As	Source
-lv - Latvian	lv - Latvian	Description	Same As	Source
-mt - Maltese	mt - Maltese	Description	Same As	Source
-nl - Dutch	nl - Dutch	Description	Same As	Source
-no - Norwegian	no - Norwegian	Description	Same As	Source
-pl - Polish	pl - Polish	Description	Same As	Source
-pt - Portugese	pt - Portugese	Description	Same As	Source
-ro - Romanian	ro - Romanian	Description	Same As	Source
-sk - Slovak	sk - Slovak	Description	Same As	Source
-sl - Slovenian	sl - Slovenian	Description	Same As	Source
-sv - Swedish	sv - Swedish	Description	Same As	Source
+bg	bg - Bulgarian	ISO 639-1 two letter language code:  bg - Bulgarian	https://id.loc.gov/vocabulary/iso639-1/bg.json	
+cz	cz - Czech	ISO 639-1 two letter language code:  cz - Czech	https://id.loc.gov/vocabulary/iso639-1/cz.json	
+da	da - Danish	ISO 639-1 two letter language code:  da - Danish	https://id.loc.gov/vocabulary/iso639-1/da.json	
+de	de - German	ISO 639-1 two letter language code:  de - German	https://id.loc.gov/vocabulary/iso639-1/de.json	
+el	el - Greek	ISO 639-1 two letter language code:  el - Greek	https://id.loc.gov/vocabulary/iso639-1/el.json	
+en	en - English	ISO 639-1 two letter language code:  en - English	https://id.loc.gov/vocabulary/iso639-1/en.json	
+es	es - Spanish	ISO 639-1 two letter language code:  es - Spanish	https://id.loc.gov/vocabulary/iso639-1/es.json	
+et	et - Estonian	ISO 639-1 two letter language code:  et - Estonian	https://id.loc.gov/vocabulary/iso639-1/et.json	
+fi	fi - Finnish	ISO 639-1 two letter language code:  fi - Finnish	https://id.loc.gov/vocabulary/iso639-1/fi.json	
+fr	fr - French	ISO 639-1 two letter language code:  fr - French	https://id.loc.gov/vocabulary/iso639-1/fr.json	
+ga	ga - Irish	ISO 639-1 two letter language code:  ga - Irish	https://id.loc.gov/vocabulary/iso639-1/ga.json	
+hr	hr - Croatian	ISO 639-1 two letter language code:  hr - Croatian	https://id.loc.gov/vocabulary/iso639-1/hr.json	
+hu	hu - Hungarian	ISO 639-1 two letter language code:  hu - Hungarian	https://id.loc.gov/vocabulary/iso639-1/hu.json	
+it	it - Italian	ISO 639-1 two letter language code:  it - Italian	https://id.loc.gov/vocabulary/iso639-1/it.json	
+lt	lt - Lithuanian	ISO 639-1 two letter language code:  lt - Lithuanian	https://id.loc.gov/vocabulary/iso639-1/lt.json	
+lv	lv - Latvian	ISO 639-1 two letter language code:  lv - Latvian	https://id.loc.gov/vocabulary/iso639-1/lv.json	
+mt	mt - Maltese	ISO 639-1 two letter language code:  mt - Maltese	https://id.loc.gov/vocabulary/iso639-1/mt.json	
+nl	nl - Dutch	ISO 639-1 two letter language code:  nl - Dutch	https://id.loc.gov/vocabulary/iso639-1/nl.json	
+no	no - Norwegian	ISO 639-1 two letter language code:  no - Norwegian	https://id.loc.gov/vocabulary/iso639-1/no.json	
+pl	pl - Polish	ISO 639-1 two letter language code:  pl - Polish	https://id.loc.gov/vocabulary/iso639-1/pl.json	
+pt	pt - Portugese	ISO 639-1 two letter language code:  pt - Portugese	https://id.loc.gov/vocabulary/iso639-1/pt.json	
+ro	ro - Romanian	ISO 639-1 two letter language code:  ro - Romanian	https://id.loc.gov/vocabulary/iso639-1/ro.json	
+sk	sk - Slovak	ISO 639-1 two letter language code:  sk - Slovak	https://id.loc.gov/vocabulary/iso639-1/sk.json	
+sl	sl - Slovenian	ISO 639-1 two letter language code:  sl - Slovenian	https://id.loc.gov/vocabulary/iso639-1/sl.json	
+sv	sv - Swedish	ISO 639-1 two letter language code:  sv - Swedish	https://id.loc.gov/vocabulary/iso639-1/sv.json	
