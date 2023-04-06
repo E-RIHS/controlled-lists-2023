@@ -1,15 +1,15 @@
 {
   "id": "support_activity_type",
-  "description": "# Support Activity Types\n\nThis list is intended to include the various types of support that can be provided to a Service, such as the ones provided under [E-RIHS](https://www.e-rihs.eu/). This was developed from the initial notion of defining who might be funding a given service, but in the future a given service can be offered under multiple funding streams at the same time and different organisations and or individual can provide a range of different types of past, current or ongoing support this list was initiated.   \n\n### Referenced by\n* Field: **support_activity** - **type** in the [Service metadata schema](https://github.com/E-RIHS/schema#service-metadata-schema)\n\n",
+  "description": "# Support Activity Types\n\nThis list is intended to include the various types of support that can be provided to a Service, such as the ones provided under [E-RIHS](https://www.e-rihs.eu/). This was developed from the initial notion of defining who might be funding a given service, but in the future a given service can be offered under multiple funding streams at the same time and different organisations and or individual can provide a range of different types of past, current or ongoing support this list was initiated.   \n\n** Please note that the French version of this list is not a real translation, it has just been included to test the automated generation of the relevant JSON file, once it has been updated or an alternative real example has been added please remove this note and any old version of the dummy French version\n\n### Referenced by\n* Field: **support_activity** - **type** in the [Service metadata schema](https://github.com/E-RIHS/schema#service-metadata-schema)\n\n",
   "terms": {
     "access": {
       "term": "access",
       "label": {
-        "fr": "French - Access",
+        "fr": "Acc\u00e8s",
         "en": "Access"
       },
       "description": {
-        "fr": "French - In relation to E-RIHS the \"Access\" support type refers to the process of providing funding and resources to support \u201cAccess\u201d opportunities for researchers and professionals to use and benefit from the advanced scientific equipment, tools and expertise available across the E-RIHS network. The goal of these Accesses are to enable researchers to carry out cutting-edge research and develop new techniques in the fields of heritage science and conservation.",
+        "fr": "En ce qui concerne E-RIHS, le type de soutien \"Acc\u00e8s\" fait r\u00e9f\u00e9rence au processus de fourniture de financement et de ressources pour soutenir les opportunit\u00e9s \"d'acc\u00e8s\" permettant aux chercheurs et aux professionnels d'utiliser et de b\u00e9n\u00e9ficier de l'\u00e9quipement scientifique avanc\u00e9, des outils et de l'expertise disponibles dans E-RIHS. r\u00e9seau. L'objectif de ces Acc\u00e8s est de permettre aux chercheurs de mener des recherches de pointe et de d\u00e9velopper de nouvelles techniques dans les domaines de la science et de la conservation du patrimoine.",
         "en": "In relation to E-RIHS the \"Access\" support type refers to the process of providing funding and resources to support \u201cAccess\u201d opportunities for researchers and professionals to use and benefit from the advanced scientific equipment, tools and expertise available across the E-RIHS network. The goal of these Accesses are to enable researchers to carry out cutting-edge research and develop new techniques in the fields of heritage science and conservation."
       },
       "sameAs": "",
@@ -18,12 +18,12 @@
     "administration": {
       "term": "administration",
       "label": {
-        "fr": "French - Administration",
+        "fr": "Administration",
         "en": "Administration"
       },
       "description": {
-        "fr": "French - In relation to E-RIHS the \"Administration\" support type simply refers to the process or providing administrative support to a Service.",
-        "en": "In relation to E-RIHS the \"Administration\" support type simply refers to the process or providing administrative support to a Service."
+        "fr": "En ce qui concerne E-RIHS, le type de support \"Administration\" fait simplement r\u00e9f\u00e9rence au processus de fourniture d'un support administratif \u00e0 un Service.",
+        "en": "In relation to E-RIHS the \"Administration\" support type simply refers to the process of providing administrative support to a Service."
       },
       "sameAs": "",
       "source": ""
@@ -31,11 +31,11 @@
     "development": {
       "term": "development",
       "label": {
-        "fr": "French - Development",
+        "fr": "D\u00e9veloppement",
         "en": "Development"
       },
       "description": {
-        "fr": "French - In relation to E-RIHS the \"Development\" support type simply refers to the process or providing support to during the setup, creation or ongoing development of a Service.",
+        "fr": "En ce qui concerne E-RIHS, le type de support \"D\u00e9veloppement\" fait simplement r\u00e9f\u00e9rence au processus ou \u00e0 la fourniture d'un support pendant la configuration, la cr\u00e9ation ou le d\u00e9veloppement continu d'un service.",
         "en": "In relation to E-RIHS the \"Development\" support type simply refers to the process or providing support to during the setup, creation or ongoing development of a Service."
       },
       "sameAs": "",
@@ -44,11 +44,11 @@
     "maintenance": {
       "term": "maintenance",
       "label": {
-        "fr": "French - Maintenance",
+        "fr": "Entretien",
         "en": "Maintenance"
       },
       "description": {
-        "fr": "French - In relation to E-RIHS the \"Maintenance\" support type simply refers to the process or providing support for the ongoing costs of running a Service.",
+        "fr": "En ce qui concerne E-RIHS, le type de support \"Maintenance\" fait simplement r\u00e9f\u00e9rence au processus ou \u00e0 la fourniture d'un support pour les co\u00fbts permanents de fonctionnement d'un service.",
         "en": "In relation to E-RIHS the \"Maintenance\" support type simply refers to the process or providing support for the ongoing costs of running a Service."
       },
       "sameAs": "",
