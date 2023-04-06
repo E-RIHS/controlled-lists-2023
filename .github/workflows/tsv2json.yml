@@ -7,7 +7,7 @@ name: Build GH Pages
 on:
   push:
     branches: ['main']
-    paths: ['tsv/*/*.tsv', 'tsv/*/README.md']
+    paths: ['tsv/*/*.tsv', 'tsv/*/README.md', '.github/workflows/tsv2json.yml']
 
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:
