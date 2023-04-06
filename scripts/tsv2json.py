@@ -2,6 +2,11 @@
 import os
 import csv
 import json
+import sys
+
+cwd = os.getcwd()
+print("Current working directory:", cwd)
+sys.exit()
 
 tsv_dir = "../tsv"  # set the folder name
 json_dir = "../json"  # set the folder name
