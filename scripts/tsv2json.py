@@ -5,11 +5,12 @@ import json
 import sys
 
 cwd = os.getcwd()
-print("Current working directory:", cwd)
-sys.exit()
+#print("Current working directory:", cwd)
+# /home/runner/work/controlled-lists/controlled-lists
+#sys.exit()
 
-tsv_dir = "../tsv"  # set the folder name
-json_dir = "../json"  # set the folder name
+tsv_dir = os.path.join(cwd, "tsv") # "../tsv"  # set the folder name
+json_dir = os.path.join(cwd, "json") # "../json"  # set the folder name
 
 # loop over all subfolders in the tsv folder
 for folder_name in os.listdir(tsv_dir):
