@@ -3,8 +3,8 @@ import os
 import csv
 import json
 
-tsv_dir = "./tsv"  # set the folder name
-json_dir = "./json"  # set the folder name
+tsv_dir = "../tsv"  # set the folder name
+json_dir = "../json"  # set the folder name
 
 # loop over all subfolders in the tsv folder
 for folder_name in os.listdir(tsv_dir):
