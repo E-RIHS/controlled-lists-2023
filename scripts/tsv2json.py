@@ -80,7 +80,7 @@ for folder_name in os.listdir(tsv_dir):
                               tsv_data["terms"][term]["description"][filename_parts[-1]] = description
         
         # Convert dictionary to JSON
-        json_str = json.dumps(tsv_data, indent=2)
+        json_str = json.dumps(tsv_data, indent=2, ensure_ascii=False)
         
         if os.path.isfile(json_path):
           with open(json_path, 'w') as file:
