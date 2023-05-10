@@ -60,3 +60,4 @@ The default language of these controlled lists is expected to be English but alt
 * examination type (object/Archive/Data)
 * Technique
 * Condition Class/State/Value (Possibly several lists see model notes)
+* Actor Type
