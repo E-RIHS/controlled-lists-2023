@@ -4,7 +4,7 @@ The various controlled lists presented here are being used within the developmen
 
 > **Note**
 >
-> It is planned that once the process of creation and editing of these controlled lists reaches a more robust and consistent level the various lists and their administration will be moved to a feature rich vocabulary service. which is currently expected to be hosted under https://vocabulary.e-rihs.io (this is not yet live).
+> This temporary approach is now being replaced with a managed vocabulary server - for more information please see [E-RIHS Vocabulary](https://github.com/E-RIHS/vocabulary).
 
 The controlled lists added to this repository are being managed and created using a very fixed file and folder name protocol. This allows the lists content to be created and edited via simple TSV files and then more functional JSON formatted representations are created automatically by an in built GitHub Actions script that calls the included [tsv2json](scripts/tsv2json.py) script.
 
