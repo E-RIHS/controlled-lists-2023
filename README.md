@@ -1,3 +1,6 @@
+> [!WARNING]  
+> This version of the E-RIHS Controlled Lists was created as an intial experiment and has now been replaced with a combination of a full [E-RIHS Vocabulary Server](https://vocab.e-rihs.io) based on [OpenTheso](https://opentheso.hypotheses.org/) along with a set of [scripts](https://github.com/E-RIHS/controlled-lists) to reformat data from the [Vocabulary Server API](https://vocab.e-rihs.io/openapi/doc/) it to predefind JSON documents.
+
 # E-RIHS Controlled Lists
 
 The various controlled lists presented here are being used within the development of documentation and data gathering exercises, in relation to Heritage Science research activities. This standard metadata modelling and data gathering work is being carried out within [IPERION-HS](https://cordis.europa.eu/project/id/871034) and [E-RIHS IP](https://cordis.europa.eu/project/id/101079148) as part of the development of [E-RIHS](https://www.e-rihs.eu/). 
